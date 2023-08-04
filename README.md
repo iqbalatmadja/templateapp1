@@ -68,7 +68,7 @@ The Laravel framework is open-sourced software licensed under the [MIT license](
 
 ### Premium Partners
 
-- ** git clone https://github.com/iqbalatmadja/templateapp1.git (done)**
+- **git clone https://github.com/iqbalatmadja/templateapp1.git (done)**
 cd templateapp1
 ./artisan migrate (done)
 create permissions
